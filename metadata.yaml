@@ -1,0 +1,29 @@
+_repo: La-Chanson-de-Roland---Translated-from-the-Seventh-Edition-of-L-on-Gautier_23819
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rabillon, Léonce
+    alias: Rabillon, Leonce
+    birthdate: 1814
+    deathdate: 1886
+    gutenberg_agent_id: '32713'
+    url: http://www.gutenberg.org/2009/agents/32713
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, French -- Translations into English'
+- !lcsh 'Knights and knighthood -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'Roland (Legendary character) -- Romances'
+title: 'La Chanson de Roland : Translated from the Seventh Edition of Léon Gautier'
+url: http://www.gutenberg.org/ebooks/23819
